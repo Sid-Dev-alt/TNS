@@ -1,39 +1,19 @@
+
+
 .bg-tnits-dark {
-  background-color: #1a2a40 !important;
+  background-color: #1a2a40 !important; 
   color: white;
 }
 
 .bg-tnits-light {
-  background-color: #aac4c5 !important;
-}
-.mb-0 h5 {
-  color: black;
-}
-
-.navbar {
-  height: 75px;
-  display: flex;
-  align-items: center;
-  overflow: hidden;
-}
-
-.navbar .container-fluid {
-  padding-top: 0;
-  padding-bottom: 0;
-}
-
-.navbar .navbar-brand img {
-  height: 150px;
-  width: 249px;
-  width: auto;
-  object-fit: contain;
+  background-color: #2e445b !important; 
 }
 
 .sidebar {
   min-width: 250px;
   max-width: 250px;
-  background-color: #2e445b;
-  color: #c0d9e9;
+  background-color: #2e445b; 
+  color: #c0d9e9; 
   transition: all 0.3s;
 }
 
@@ -45,18 +25,18 @@
 }
 
 .sidebar a:hover {
-  background-color: #4a6c8e;
+  background-color: #4a6c8e; 
   color: white;
 }
 
 .sidebar .nav-link.active {
-  background-color: #4a6c8e;
+  background-color: #4a6c8e; 
   color: white;
-  border-left: 3px solid #66ccff;
+  border-left: 3px solid #66ccff; 
 }
 
 .sidebar .nav-link-header {
-  color: #a0c2e0;
+  color: #a0c2e0; 
   padding: 10px 15px;
   font-weight: bold;
 }
@@ -66,6 +46,7 @@
   flex-grow: 1;
   padding: 20px;
 }
+
 
 .add-field-of-study-card {
   background-color: white;
@@ -86,8 +67,9 @@
   }
 
   .sidebar.show {
-    left: 0;
+    left: 0; 
   }
+
 
   body.sidebar-open {
     margin-left: 250px;

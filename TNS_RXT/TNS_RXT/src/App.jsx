@@ -5,9 +5,6 @@ import AddFieldOfStudy from "./Components/AddFieldOfStudy";
 import FieldOfStudyList from "./Components/FieldOfStudyList"; 
 
 
-
-
-
 const Dashboard = () => (
   <div className="container-fluid">
     <h3>Dashboard Content</h3>
